@@ -13,7 +13,7 @@ int main(){
     cout<<"dame la potencia: "; 
     cin>>p;
 
-    potencia(n, p);
+    cout <<potencia(n, p);
 
     return 0;
 }
